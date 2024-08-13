@@ -1,0 +1,13 @@
+F:\.net\School\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+F:\.net\School\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+F:\.net\School\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+F:\.net\School\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+F:\.net\School\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\School\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+F:\.net\School\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+F:\.net\School\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+F:\.net\School\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+F:\.net\School\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+F:\.net\School\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+F:\.net\School\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+F:\.net\School\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
