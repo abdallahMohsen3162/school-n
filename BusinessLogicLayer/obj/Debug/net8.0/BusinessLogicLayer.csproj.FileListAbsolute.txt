@@ -1,0 +1,16 @@
+F:\.net\School\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.deps.json
+F:\.net\School\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+F:\.net\School\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+F:\.net\School\BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.dll
+F:\.net\School\BusinessLogicLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+F:\.net\School\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+F:\.net\School\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\School\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+F:\.net\School\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfo.cs
+F:\.net\School\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+F:\.net\School\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.sourcelink.json
+F:\.net\School\BusinessLogicLayer\obj\Debug\net8.0\Business.450209FB.Up2Date
+F:\.net\School\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.dll
+F:\.net\School\BusinessLogicLayer\obj\Debug\net8.0\refint\BusinessLogicLayer.dll
+F:\.net\School\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.pdb
+F:\.net\School\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll
